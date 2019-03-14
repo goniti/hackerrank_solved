@@ -24,4 +24,3 @@ const insertionSort1 = (arr) => {
 }
 
 let result = insertionSort1(arr)
-console.log(result)
