@@ -1,0 +1,6 @@
+My approach, 
+I store the value to sort in a variable that I name (last),
+then I iterate over the table starting from the end, to the beginning,
+I check that last is smaller than each element of the array.
+If last is smaller I replace the previous element with the element. 
+If last is bigger I replace the previous element with last.
