@@ -9,6 +9,8 @@
 * [Algorithms](#Algorithms)
 * [General-Programming](#General-Programming)
 * [Implementation](#Implementation)
+* [Interview](#Interview)
+
 
 Solutions are coded using Javascript
 
@@ -66,3 +68,8 @@ Solutions are coded using Javascript
 |      Implementation     | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)                                                       |  15  | [Solution 39](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution39)                                          |
 |      Implementation     | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)                                                                 |  10  | [Solution 40](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution40)                                          |
 |      Implementation     | [Library Fine](https://www.hackerrank.com/challenges/library-fine)                                                                 |  15  | [Solution 41](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution41)                                          |
+
+# Interview
+|        Subdomain        |              Challenge                                                                                                     | Points |             Solution JavaScript                                                                                                                                       |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      Interview     | [Array Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)                                                                         |  10  | [Solution 42](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution42)                                           |
