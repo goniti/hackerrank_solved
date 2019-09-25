@@ -1,8 +1,16 @@
 
-p = 20  // start price
+// p = 20  // start price
+// d = 3   //  price less than the cost of the previous
+// m = 6   //== end price
+// s = 25  // mist Wallet
+
+p = 99  // start price
 d = 3   //  price less than the cost of the previous
-m = 6   //== end price
-s = 25  // mist Wallet
+m = 1   //== end price
+s = 5555  // mist Wallet
+// Expected Output  3905
+
+
 
 const howManyGames = (p, d, m, s) => {
     const cart = [];
@@ -28,7 +36,11 @@ const howManyGames = (p, d, m, s) => {
         total += cart[j];
         count++
         if (total >= s) {
+            if (m === 1) {
+                return count
+            }
             return count - 1
+
         }
     }
 
