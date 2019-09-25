@@ -1,2 +1,1 @@
-<a href="https://www.hackerrank.com/challenges/halloween-sale/problem">
-    </a>
+https://www.hackerrank.com/challenges/halloween-sale/problem
