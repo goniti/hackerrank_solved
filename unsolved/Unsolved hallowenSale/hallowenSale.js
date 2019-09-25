@@ -1,13 +1,34 @@
+//-----------------------------------------------------------------------------------
+//------------------------------------DON'T-WORK------------------------------------------
+//-----------------------------------------------------------------------------------
+
+p = 100  // start price
+d = 19   //  price less than the cost of the previous
+m = 1   //== end price
+s = 180  // mist Wallet
+// Expected Output  1
+//my Result = 2
+
+// p = 63  // start price
+// d = 64   //  price less than the cost of the previous
+// m = 9  //== end price
+// s = 1242  // mist Wallet
+// Expected Output  132
+//my Result = 131
+
+//-----------------------------------------------------------------------------------
+//-------------------------------------WORK------------------------------------------
+//-----------------------------------------------------------------------------------
 
 // p = 20  // start price
 // d = 3   //  price less than the cost of the previous
 // m = 6   //== end price
 // s = 25  // mist Wallet
 
-p = 99  // start price
-d = 3   //  price less than the cost of the previous
-m = 1   //== end price
-s = 5555  // mist Wallet
+// p = 99  // start price
+// d = 3   //  price less than the cost of the previous
+// m = 1   //== end price
+// s = 5555  // mist Wallet
 // Expected Output  3905
 
 
@@ -36,9 +57,13 @@ const howManyGames = (p, d, m, s) => {
         total += cart[j];
         count++
         if (total >= s) {
+
+            // problem
             if (m === 1) {
                 return count
             }
+            //
+
             return count - 1
 
         }
