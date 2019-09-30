@@ -12,8 +12,6 @@ const designerPdfViewer = (h, word) => {
 
     //  Create Empty Object
     const obj = {};
-
-
     //  Create Array with 26 letters (a-z)
     const alphabet = new Array(26).fill(1).map((_, i) => String.fromCharCode(97 + i))
     //  Unicode_characters start from 97 = a lowercase or from 65 for get uppercase
