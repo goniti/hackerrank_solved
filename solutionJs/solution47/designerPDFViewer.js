@@ -21,7 +21,6 @@ const designerPdfViewer = (h, word) => {
 
     // Create loop for complete obj //  key:value = alphabet:h
     for (var i = 0; i < n; i++) {
-
         obj[alphabet[i]] = h[i];
     }
 
@@ -29,17 +28,11 @@ const designerPdfViewer = (h, word) => {
     for (let j = 0; j < word.length; j++) {
         const value = [...getValueByKey(obj, word[j])]
 
-
         if (value[1] > highest) {
-
             highest = value[1]
-
         }
-
     }
-
     return highest * word.length
-
 }
 
 // const designerPdfViewer = (h, word) => {
@@ -55,15 +48,10 @@ const designerPdfViewer = (h, word) => {
 //         const value = [...getValueByKey(obj, word[j])]
 
 //         if (value[1] > highest) {
-
 //             highest = value[1]
-
 //         }
-
 //     }
-
 //     return highest * word.length
-
 // }
 
 let result = designerPdfViewer(h, word)
