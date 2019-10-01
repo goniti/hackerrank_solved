@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/goniti">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>47 efficient solutions to HackerRank problems
+    <br>48 efficient solutions to HackerRank problems
 </p>
 
 
@@ -73,6 +73,7 @@ Solutions are coded using Javascript
 |      Implementation     | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)                                           |  15  | [Solution 44](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution44)                                          |
 |      Implementation     | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                                         |  20  | [Solution 46](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution46)                                          |
 |      Implementation     | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)                                         |  20  | [Solution 47](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution47)                                          |
+|      Implementation     | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                                       |  20  | [Solution 48](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution48)                                          |
 
 # Interview
 |        Subdomain        |              Challenge                                                                                                     | Points |             Solution JavaScript                                                                                                                                       |
