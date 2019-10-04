@@ -23,10 +23,16 @@ console.log(result);
 // const p = [5, 2, 1, 3, 4]
 
 // const permutationEquation = (p) => {
-
+ // const compare = (a, b) => {
+    //     if (a < b) {
+    //         return -1;
+    //     } else {
+    //         return 1;
+    //     }
+    // }
 //     const n = p.length
 //     const arr = p.slice()
-//     arr.sort()
+//     arr.sort(compare)
 //     const y = []
 
 //     for (let i = 0; i < n; i++) {
