@@ -7,7 +7,7 @@ const a = [4, 97, 5, 97, 97, 4, 97, 4, 97, 97, 97, 97, 4, 4, 5, 5, 97, 5, 97, 99
 const n = a.length
 
 const pickingNumbers = (a) => {
-    const count = a.reduce((map, val) => { map[val] = (map[val] || 0) + 1; return map }, {})
+    const count = a.reduce((key, value) => { key[value] = (key[value] || 0) + 1; return key }, {})
     const keys = Object.keys(count)
     let numberHighest = count[Object.keys(count).reduce((a, b) => count[a] > count[b] ? a : b)]
 
