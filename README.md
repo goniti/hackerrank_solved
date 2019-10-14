@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/goniti">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>50 efficient solutions to HackerRank problems
+    <br>51 efficient solutions to HackerRank problems
 </p>
 
 
@@ -76,7 +76,7 @@ Solutions are coded using Javascript
 |      Implementation     | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                                       |  20  | [Solution 48](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution48)                                          |
 |      Implementation     | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)                                         |  20  | [Solution 49](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution49)                                          |
 |      Implementation     | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                                 |  20  | [Solution 50](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution50)                                          |
-
+|      Implementation     | [Append And Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)                                               |  20  | [Solution 51](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution51)                                          |
 # Interview
 |        Subdomain        |              Challenge                                                                                                     | Points |             Solution JavaScript                                                                                                                                       |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
