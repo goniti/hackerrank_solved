@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/goniti">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>53 efficient solutions to HackerRank problems
+    <br>54 efficient solutions to HackerRank problems
 </p>
 
 
@@ -78,7 +78,8 @@ Solutions are coded using Javascript
 |      Implementation     | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                                 |  20  | [Solution 50](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution50)                                          |
 |      Implementation     | [Append And Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)                                             |  20  | [Solution 51](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution51)                                          |
 |      Implementation     | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)                                                   |  20  | [Solution 52](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution52)                                          |
-|      Implementation     | [the time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem)                                               |  20  | [Solution 53](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution53)                                          |
+|      Implementation     | [the time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem)                                             |  20  | [Solution 53](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution53)                                          |
+|      Implementation     | [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)                                                   |  25  | [Solution 54](https://github.com/goniti/hackerrank_solved/blob/master/solutionJs/solution54)                                          |
 # Interview
 |        Subdomain        |              Challenge                                                                                                     | Points |             Solution JavaScript                                                                                                                                       |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
