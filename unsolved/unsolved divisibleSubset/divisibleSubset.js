@@ -1,30 +1,41 @@
 const k = 4
 const s = [19, 10, 12, 10, 24, 25, 22]
+//const k = 3
+//const s = [1, 7, 2, 4]
 const n = s.length
 
 const nonDivisibleSubset = (k, s) => {
 
-    var groups = [];
+    const sFirst = [];
+    const sSecond = []
 
-    for (var i = 0; i < s.length; i++) {
-        i
-        for (let j = 1; j < s.length; j++) {
+    for (let i = 0; i < s.length; i++) {
 
-
-
-            console.log(s[i] + s[j]);
+        for (let j = i + 1; j < s.length; j++) {
 
 
+            if ((s[i] + s[j]) % k === 0) {
 
-            //groups.push(s.slice(i+j, i+j +2));
 
+                if (sFirst.indexOf(s[i]) === -1 && sSecond.indexOf(s[i]) === -1) {
+                    sFirst.push(s[i])
+
+                }
+                if (sSecond.indexOf(s[j]) === -1 && sFirst.indexOf(s[j]) === -1) {
+                    sSecond.push(s[j])
+
+                }
+
+            }
         }
 
     }
 
-
-    console.log(groups);
-
+    if (sFirst.length >= sSecond.length) {
+        return sFirst.length
+    } else {
+        return sSecond.length
+    }
 
 }
 
